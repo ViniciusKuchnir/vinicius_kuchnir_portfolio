@@ -1,7 +1,10 @@
+import Navbar from "./components/Navbar"
+
 const App = () => {
   return (
     <>
-      <h1 className="text-2xl text-blue-700">Vinícius Kuchnir</h1>
+      <Navbar />
+      <main></main>
     </>
   )
 }
