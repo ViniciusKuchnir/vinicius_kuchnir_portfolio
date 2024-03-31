@@ -56,7 +56,7 @@ export const Menu = () => {
         {/* Desktop */}
         <div className="hidden md:flex w-full gap-5">
           {components.map((item, index) => (
-            <NavigationMenuItem className="text-[#607B96] duration-150 hover:text-white md:hover:text-[#011627]">
+            <NavigationMenuItem className="text-[#607B96] duration-150 hover:dark:text-white hover:text-[#011627]">
               <NavigationMenuLink key={index} href={item.href}>
                 {item.title}
               </NavigationMenuLink>
