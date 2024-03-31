@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-
   html {
     font-family: "Fira Code", monospace;
     -webkit-font-smoothing: antialiased;
@@ -70,6 +69,27 @@
     --input: 12 6.5% 15.1%;
     --ring: 24 5.7% 82.9%;
   }
+
+  /* Scroll */
+  ::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+
+  /* Background scroll */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  /* Scroll bar indicator */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+
+  /* Color change of the scroll bar indicator when hovering over it */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
 }
 
 @layer base {
@@ -80,3 +100,5 @@
     @apply bg-background text-foreground;
   }
 }
+
+
