@@ -1,16 +1,10 @@
-import { Badge } from "../ui/badge";
+import SectionTitle from "../SectionTitle";
 import { RxPerson } from "react-icons/rx";
 
 const Presentation = () => {
   return (
     <div className="space-y-8 w-full">
-        <div className="space-y-4">
-            <Badge className="w-max flex gap-1 bg-[#4D5BCE] text-white">
-            <RxPerson size={24} />
-            <span className="">About me</span>
-            </Badge>
-            <h1 className="text-2xl font-bold">Vinícius Kuchnir Rodrigues Pinto</h1>
-        </div>
+        <SectionTitle icon={RxPerson} label="About me" title="Vinícius Kuchnir Rodrigues Pinto" />
         <div className="space-y-4">
             <p className="text-[#607B96] text-justify flex flex-col">
                 <span>{'{'}/*</span>
