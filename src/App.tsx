@@ -1,5 +1,6 @@
 import AboutMe from "./components/AboutMe";
 import Navbar from "./components/Navbar"
+import Portfolio from "./components/Portfolio";
 import Welcome from "./components/Welcome";
 import Work from "./components/Work";
 
@@ -11,6 +12,7 @@ const App = () => {
         <Welcome />
         <Work />
         <AboutMe />
+        <Portfolio />
       </main>
     </>
   )
