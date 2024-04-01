@@ -6,7 +6,7 @@ import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 
 const PersonalApresentation = () => {
   return (
-    <div className="w-full space-y-16">
+    <div className="w-full space-y-10 md:flex md:flex-col md:justify-between">
       <Badge className="w-max flex gap-1 bg-[#4D5BCE] text-white">
         <PiHandWaving size={24} />
         <span className="">Greetings</span>

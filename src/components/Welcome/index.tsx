@@ -5,7 +5,7 @@ const Welcome = () => {
 
 
   return (
-    <section className='w-full flex flex-col md:flex-row md:gap-2' id='_about_me'>
+    <section className='w-full flex flex-col p-4 md:flex-row md:gap-2' id='_about_me'>
         <PersonalApresentation />
         <Code />
     </section>

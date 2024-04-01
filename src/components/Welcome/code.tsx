@@ -12,7 +12,7 @@ const Code = () => {
                 text={textCode}
                 language='javascript'
                 showLineNumbers={true}
-                customStyle={{height: '400px',margin: '0', overflowY: 'scroll'}}
+                customStyle={{height: '450px',margin: '0', overflowY: 'scroll'}}
                 theme={theme === 'dark' ? dracula : atomOneLight}
             />
         </div>
