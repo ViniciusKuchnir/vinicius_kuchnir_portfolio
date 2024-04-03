@@ -26,7 +26,7 @@ const components: { title: string; href: string; description: string }[] = [
   },
   {
     title: "_career",
-    href: "#carreira",
+    href: "#career",
     description:
       "Take a look at some of my achievements that have brought me this far",
   },
