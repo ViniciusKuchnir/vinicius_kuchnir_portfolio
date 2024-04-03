@@ -8,7 +8,7 @@ import Skill from "./skill";
 
 const Skills = () => {
   return (
-    <section className="p-4 space-y-8">
+    <section className="p-4 space-y-8" id="skills">
       <SectionTitle
         icon={GiSkills}
         label="Skills-Experiences"
@@ -31,7 +31,6 @@ const Skills = () => {
         <div className="w-full flex flex-col justify-center items-center">
             <span className="text-[#43D9AD] text-center">{'>'} Other techs I've worked with</span>
             <div className="w-full flex p-2 gap-4 overflow-x-scroll md:overflow-x-auto md:justify-center">
-
                 <Skill icon={SiSwagger} label="Swagger" />
                 <Skill icon={SiJest} label="Jest" />
                 <Skill icon={FaJava} label="Java" />
