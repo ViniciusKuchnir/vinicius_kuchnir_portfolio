@@ -1,6 +1,7 @@
 import AboutMe from "./components/AboutMe";
 import Navbar from "./components/Navbar"
 import Portfolio from "./components/Portfolio";
+import Skills from "./components/Skills";
 import Welcome from "./components/Welcome";
 import Work from "./components/Work";
 
@@ -13,6 +14,7 @@ const App = () => {
         <Work />
         <AboutMe />
         <Portfolio />
+        <Skills />
       </main>
     </>
   )
