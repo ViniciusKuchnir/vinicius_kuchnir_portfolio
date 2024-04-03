@@ -1,4 +1,5 @@
 import AboutMe from "./components/AboutMe";
+import Career from "./components/Career";
 import Navbar from "./components/Navbar"
 import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
@@ -15,6 +16,7 @@ const App = () => {
         <AboutMe />
         <Portfolio />
         <Skills />
+        <Career />
       </main>
     </>
   )
