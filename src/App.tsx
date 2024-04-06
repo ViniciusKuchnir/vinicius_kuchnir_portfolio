@@ -1,3 +1,4 @@
+import Contact from "./Contact";
 import AboutMe from "./components/AboutMe";
 import Career from "./components/Career";
 import Navbar from "./components/Navbar"
@@ -17,6 +18,7 @@ const App = () => {
         <Portfolio />
         <Skills />
         <Career />
+        <Contact />
       </main>
     </>
   )
