@@ -6,6 +6,7 @@ import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
 import Welcome from "./components/Welcome";
 import Work from "./components/Work";
+import GoToBack from "./components/GoToBack";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Skills />
         <Career />
         <Contact />
+        <GoToBack />
       </main>
     </>
   )
