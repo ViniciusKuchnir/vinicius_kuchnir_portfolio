@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Welcome from "./components/Welcome";
 import Work from "./components/Work";
 import GoToBack from "./components/GoToBack";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Contact />
         <GoToBack />
       </main>
+      <Footer />
     </>
   )
 }
