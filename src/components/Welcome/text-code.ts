@@ -5,7 +5,7 @@ interface Item {
     name: string;
 }
 
-const ListaItens: React.FC = () => {
+const ListItens: React.FC = () => {
     const [items, setItems] = useState<Item[]>([
         { id: 1, name: 'Item 1' },
         { id: 2, name: 'Item 2' },
@@ -33,5 +33,5 @@ const ListaItens: React.FC = () => {
     );
 };
 
-export default ListaItens;
+export default ListItens;
 `
