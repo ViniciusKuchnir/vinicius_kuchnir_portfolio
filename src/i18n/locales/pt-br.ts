@@ -81,6 +81,7 @@ export default {
       "Let's have a chat": "Vamos bater um papo",
       'Copy': 'Copiar',
       'Copied!': 'Copiado!',
-      'Back to top': 'Voltar ao início'
+      'Back to top': 'Voltar ao início',
+      'Find me in': 'Me encontre em'
     }
   }
