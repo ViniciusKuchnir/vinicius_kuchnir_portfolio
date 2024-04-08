@@ -16,7 +16,7 @@ export const projects: Project[] = [
   {
     title: "Qualist",
     description:
-      "Apps for software quality assurance professionals",
+      "App for software quality assurance professionals",
     languages: ["Javascript", "React Native"],
     href: 'https://github.com/ViniciusKuchnir/QualistV2/tree/master'
   },

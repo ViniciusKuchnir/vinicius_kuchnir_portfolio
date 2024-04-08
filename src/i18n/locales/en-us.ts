@@ -35,6 +35,15 @@ export default {
       'quality': 'quality',
       'exceeding': 'exceeding',
       'expectations': 'expectations',
-
+      'Portfolio': 'Portfolio',
+      'Projects': 'Projects',
+      'Platform for controlling personal finances built for the IT Project Management course': 'Platform for controlling personal finances built for the IT Project Management course',
+      'App for software quality assurance professionals': 'App for software quality assurance professionals',
+      'Mobile app for financial control (Interfaces)': 'Mobile app for financial control (Interfaces)',
+      'App for tracking packages': 'App for tracking packages',
+      'Product command microservice (CQRS pattern)': 'Product command microservice (CQRS pattern)',
+      'Product queries microservice (CQRS pattern)': 'Product queries microservice (CQRS pattern)',
+      'Check in Github': 'Check in Github',
+      
     }
   }

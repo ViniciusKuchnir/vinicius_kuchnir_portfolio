@@ -34,6 +34,15 @@ export default {
       'creating': 'criando',
       'quality': 'qualidade',
       'exceeding': 'superando',
-      'expectations': 'expectativas'
+      'expectations': 'expectativas',
+      'Portfolio': 'Portfólio',
+      'Projects': 'Projetos',
+      'Platform for controlling personal finances built for the IT Project Management course': 'Plataforma para controle de finanças pessoais criada para a disciplina de Gerenciamento de Projetos de TI',
+      'App for software quality assurance professionals': 'Aplicativo para profissionais de garantia de qualidade de software',
+      'Mobile app for financial control (Interfaces)': 'Aplicativo móvel para controle financeiro (Interfaces)',
+      'App for tracking packages': 'Aplicativo para rastreio de pacotes',
+      'Product command microservice (CQRS pattern)': 'Microsserviço de comando de produto (padrão CQRS)',
+      'Product queries microservice (CQRS pattern)': 'Microsserviço de consultas de produtos (padrão CQRS)',
+      'Check in Github': 'Ver no Github'
     }
   }
