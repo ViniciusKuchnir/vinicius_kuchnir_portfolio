@@ -16,6 +16,16 @@ export default {
       'Greetings': 'Saudações',
       'Hi all. I am': 'Olá a todos. Eu sou',
       'Front-end developer': 'Desenvolvedor Front-end',
-      'Find my profile on Github': 'Encontre meu perfil no Github'
+      'Find my profile on Github': 'Encontre meu perfil no Github',
+      '1 year as': '1 ano como',
+      'Developer': 'Desenvolvedor',
+      '3.5 years as a': '3.5 anos como um',
+      'Student': 'Estudante',
+      '+ 4.5 years of': '+ 4.5 anos de',
+      'Learning': 'Aprendizado',
+      'Dozens of projects and': 'Dezenas de projetos e',
+      'Experinces': 'Experiências',
+      'Developer and': 'Desenvolvedor e',
+      'Freelancer': 'Freelancer'
     }
   }

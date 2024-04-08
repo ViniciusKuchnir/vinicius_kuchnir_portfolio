@@ -17,5 +17,15 @@ export default {
       'Hi all. I am': 'Hi all. I am',
       'Front-end developer': 'Front-end developer',
       'Find my profile on Github': 'Find my profile on Github',
+      '1 year as': '1 year as',
+      'Developer': 'Developer',
+      '3.5 years as a': '3.5 years as a',
+      'Student': 'Student',
+      '+ 4.5 years of': '+ 4.5 years of',
+      'Learning': 'Learning',
+      'Dozens of projects and': 'Dozens of projects and',
+      'Experinces': 'Experinces',
+      'Developer and': 'Developer and',
+      'Freelancer': 'Freelancer'
     }
   }
