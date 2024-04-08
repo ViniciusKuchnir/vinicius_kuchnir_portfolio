@@ -81,7 +81,8 @@ export default {
       "Let's have a chat!": "Let's have a chat!",
       "Let's have a chat": "Let's have a chat",
       'Copy': 'Copiar',
-      'Copied!': 'Copied!'
+      'Copied!': 'Copied!',
+      'Back to top': 'Back to top'
 
 
     }
