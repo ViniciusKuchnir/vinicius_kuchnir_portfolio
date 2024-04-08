@@ -77,6 +77,12 @@ export default {
       'month': 'month',
       'months': 'months',
       'Unperiodized': 'Unperiodized',
+      'Contatc': 'Contact',
+      "Let's have a chat!": "Let's have a chat!",
+      "Let's have a chat": "Let's have a chat",
+      'Copy': 'Copiar',
+      'Copied!': 'Copied!'
+
 
     }
   }

@@ -1,7 +1,11 @@
 import { Button } from "@/components/ui/button";
+import { useTranslation } from "react-i18next";
 import { FaWhatsapp } from "react-icons/fa";
 
 const WhatsAppContact = () => {
+
+  const { t } = useTranslation();
+
   return (
     <div className="w-full flex items-center justify-center md:w-max">
       <Button
@@ -13,7 +17,7 @@ const WhatsAppContact = () => {
           href="https://wa.me/+5541920005277"
           target="_blank"
         >
-          <FaWhatsapp size={24} /> Let's have a chat
+          <FaWhatsapp size={24} /> {t("Let's have a chat")}
         </a>
       </Button>
     </div>

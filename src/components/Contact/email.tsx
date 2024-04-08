@@ -6,9 +6,12 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
+import { useTranslation } from "react-i18next";
 
 const Email = () => {
   const [emailIsCopied, setEmailIsCopied] = useState<boolean>(false);
+
+  const { t } = useTranslation();
 
   const copyEmail = async () => {
     await navigator.clipboard.writeText("viniciuskuchnirodrigues@gmail.com");
@@ -33,7 +36,7 @@ const Email = () => {
               </button>
             </TooltipTrigger>
             <TooltipContent>
-              <span>{emailIsCopied ? "Copied!" : "Copy"}</span>
+              <span>{emailIsCopied ? t("Copied!") : t("Copy")}</span>
             </TooltipContent>
           </Tooltip>
         </TooltipProvider>

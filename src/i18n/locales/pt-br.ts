@@ -76,5 +76,10 @@ export default {
       'month': 'mês',
       'months': 'meses',
       'Unperiodized': 'Período intederminado',
+      'Contact': 'Contato',
+      "Let's have a chat!": "Vamos bater um papo!",
+      "Let's have a chat": "Vamos bater um papo",
+      'Copy': 'Copiar',
+      'Copied!': 'Copiado!',
     }
   }
