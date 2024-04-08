@@ -13,7 +13,8 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <main className="w-full">
+      {/* Padding to distance element due to Navbar */}
+      <main className="w-full pt-14">
         <Welcome />
         <Work />
         <AboutMe />
