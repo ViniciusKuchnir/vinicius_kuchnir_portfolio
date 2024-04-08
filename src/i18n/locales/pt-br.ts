@@ -79,6 +79,7 @@ export default {
       'Contact': 'Contato',
       "Let's have a chat!": "Vamos bater um papo!",
       "Let's have a chat": "Vamos bater um papo",
+      'OR': 'OU',
       'Copy': 'Copiar',
       'Copied!': 'Copiado!',
       'Back to top': 'Voltar ao início',

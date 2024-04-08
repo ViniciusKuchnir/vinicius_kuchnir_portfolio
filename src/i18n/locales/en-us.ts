@@ -80,6 +80,7 @@ export default {
       'Contatc': 'Contact',
       "Let's have a chat!": "Let's have a chat!",
       "Let's have a chat": "Let's have a chat",
+      'OR': 'OR',
       'Copy': 'Copiar',
       'Copied!': 'Copied!',
       'Back to top': 'Back to top',
