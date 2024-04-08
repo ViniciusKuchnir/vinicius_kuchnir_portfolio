@@ -10,7 +10,7 @@ const Card = ({
   isCurrent,
 }: Experience) => {
 
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const formatPeriod = (
     startDate: Date | null,
@@ -27,8 +27,10 @@ const Card = ({
       return `${startDateFormated} - Currently`;
     }
 
+    const selectedLanguage = i18n.language;
+
     const endMonthDate = endDate
-      ?.toLocaleString("en-US", { month: "short" })
+      ?.toLocaleString(selectedLanguage, { month: "short" })
       .replace(".", "");
     const finalYearDate = endDate?.getFullYear();
     const endDateFormated = `${endMonthDate}/${finalYearDate}`;
