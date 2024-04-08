@@ -43,6 +43,10 @@ export default {
       'App for tracking packages': 'Aplicativo para rastreio de pacotes',
       'Product command microservice (CQRS pattern)': 'Microsserviço de comando de produto (padrão CQRS)',
       'Product queries microservice (CQRS pattern)': 'Microsserviço de consultas de produtos (padrão CQRS)',
-      'Check in Github': 'Ver no Github'
+      'Check in Github': 'Ver no Github',
+      'Skills-Experiences': 'Habilidades-Experiências',
+      'Technologies and skills': 'Tecnologias e habilidades',
+      'Techs I use on a daily basis': 'Techs que uso diariamente',
+      "Other techs I've worked with": 'Outras techs com que já trabalhei'
     }
   }

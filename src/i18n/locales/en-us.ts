@@ -44,6 +44,9 @@ export default {
       'Product command microservice (CQRS pattern)': 'Product command microservice (CQRS pattern)',
       'Product queries microservice (CQRS pattern)': 'Product queries microservice (CQRS pattern)',
       'Check in Github': 'Check in Github',
-      
+      'Skills-Experiences': 'Skills-Experiences',
+      'Technologies and skills': 'Technologies and skills',
+      'Techs I use on a daily basis': 'Techs I use on a daily basis',
+      "Other techs I've worked with": "Other techs I've worked with"
     }
   }
