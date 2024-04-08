@@ -26,6 +26,15 @@ export default {
       'Dozens of projects and': 'Dozens of projects and',
       'Experinces': 'Experinces',
       'Developer and': 'Developer and',
-      'Freelancer': 'Freelancer'
+      'Freelancer': 'Freelancer',
+      'About me': 'About me',
+      'Software Engineering student at the Pontifical Catholic University of Paraná (PUCPR) with a special passion for web development using technologies such as ReactJS and NodeJS. My academic career is marked by a tireless commitment to excellence, reflected in my involvement in various areas of my university.': 'Software Engineering student at the Pontifical Catholic University of Paraná (PUCPR) with a special passion for web development using technologies such as ReactJS and NodeJS. My academic career is marked by a tireless commitment to excellence, reflected in my involvement in various areas of my university.',
+      'Committed to': 'Committed to',
+      'excellence': 'excellence',
+      'creating': 'creating',
+      'quality': 'quality',
+      'exceeding': 'exceeding',
+      'expectations': 'expectations',
+
     }
   }
