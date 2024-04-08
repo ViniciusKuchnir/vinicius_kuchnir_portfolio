@@ -2,7 +2,7 @@ import { Experience } from "@/types/experience";
 
 export const ProfessionalExperiences: Experience[] = [
     {
-        name: 'Front-end Developer',
+        name: 'Front-end developer',
         description: 'Web development from prototypes of a time line application',
         company: 'Freelancer',
         startDate: new Date('2023/07/01'),
@@ -10,7 +10,7 @@ export const ProfessionalExperiences: Experience[] = [
         isCurrent: false
     }, 
     {
-        name: 'Junior Developer',
+        name: 'Junior developer',
         description: 'Development and maintenance of web systems',
         company: 'WinAudio Software',
         startDate: new Date('2020/11/01'),

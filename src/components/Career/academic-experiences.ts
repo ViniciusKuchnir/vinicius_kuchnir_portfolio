@@ -3,8 +3,8 @@ import { Experience } from "@/types/experience";
 export const AcademicExperiences: Experience[] = [
     {
         name: 'Academic exchange',
-        description: 'Academic exchange at the Instituto Superior de Engenharia do Porto (Portugal)',
-        company: 'Instituto Superior de Engenharia do Porto',
+        description: 'Academic exchange at the Porto Higher Institute of Engineering (Portugal)',
+        company: 'Porto Higher Institute of Engineering',
         startDate: new Date('2023/09/10'),
         endDate: new Date('2024/02/27'),
         isCurrent: false
@@ -34,8 +34,8 @@ export const AcademicExperiences: Experience[] = [
         isCurrent: false
     },
     {
-        name: 'Monitoring Problem Solving with Mathematical Logic',
-        description: 'Accompanying the subject of Problem Solving with Mathematical Logic, helping students with doubts about the content',
+        name: 'Monitoring',
+        description: 'Helping students with doubts about the content of Problem Solving with Mathematical Logic',
         company: 'Pontifical Catholic University of Paraná',
         startDate: new Date('2023/09/10'),
         endDate: new Date('2024/02/27'),
@@ -43,15 +43,7 @@ export const AcademicExperiences: Experience[] = [
     },
     {
         name: 'Monitoring',
-        description: 'Accompanying the subject of Problem Solving with Mathematical Logic, helping students with doubts about the content',
-        company: 'Pontifical Catholic University of Paraná',
-        startDate: new Date('2023/09/10'),
-        endDate: new Date('2024/02/27'),
-        isCurrent: false
-    },
-    {
-        name: 'Monitoring',
-        description: 'Accompanying the subject of Algorithmic reasoning, helping students with doubts about the content',
+        description: 'Helping students with doubts about the content of Algorithmic reasoning',
         company: 'Pontifical Catholic University of Paraná',
         startDate: new Date('2022/04/01'),
         endDate: new Date('2022/07/31'),
@@ -59,15 +51,7 @@ export const AcademicExperiences: Experience[] = [
     },
     {
         name: 'Monitoring',
-        description: 'Accompanying the subject of Algorithmic reasoning, helping students with doubts about the content',
-        company: 'Pontifical Catholic University of Paraná',
-        startDate: new Date('2022/04/01'),
-        endDate: new Date('2022/07/31'),
-        isCurrent: false
-    },
-    {
-        name: 'Monitoring',
-        description: 'Accompanying the subject of Web Development, helping students with doubts about the content',
+        description: 'Helping students with doubts about the content of web development',
         company: 'Pontifical Catholic University of Paraná',
         startDate: new Date('2022/08/24'),
         endDate: new Date('2022/11/25'),
@@ -75,7 +59,7 @@ export const AcademicExperiences: Experience[] = [
     },
     {
         name: 'Monitoring',
-        description: 'Accompanying the subject of Algorithmic reasoning, helping students with doubts about the content',
+        description: 'Helping students with doubts about the content of Algorithmic reasoning',
         company: 'Pontifical Catholic University of Paraná',
         startDate: new Date('2023/02/23'),
         endDate: new Date('2023/06/23'),
@@ -99,7 +83,7 @@ export const AcademicExperiences: Experience[] = [
     },
     {
         name: 'Public speaking club',
-        description: 'Participation in the public speaking club',
+        description: 'Participation in the public speaking club at the Pontifical Catholic University of Paraná',
         company: 'Pontifical Catholic University of Paraná',
         startDate: null,
         endDate: null,
