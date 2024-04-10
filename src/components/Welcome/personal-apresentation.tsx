@@ -19,7 +19,7 @@ const PersonalApresentation = () => {
         <span className="text-lg">{t('Hi all. I am')}</span>
         <h1 className="text-6xl">Vinícius Kuchnir</h1>
         <span className="flex items-center text-xl text-[#43D9AD]">
-          {">"} {t('Front-end developer')}
+          {">"} {t('Full Stack Developer')}
         </span>
       </div>
       <div className="w-full flex flex-col">

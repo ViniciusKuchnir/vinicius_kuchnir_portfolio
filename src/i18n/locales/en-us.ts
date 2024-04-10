@@ -15,7 +15,7 @@ export default {
       "Let's talk about me for a moment. I have a lot to tell you": "Let's talk about me for a moment. I have a lot to tell you",
       'Greetings': 'Greetings',
       'Hi all. I am': 'Hi all. I am',
-      'Front-end developer': 'Front-end developer',
+      'Full Stack Developer': 'Full Stack Developer',
       'Find my profile on Github': 'Find my profile on Github',
       '1 year as': '1 year as',
       'Developer': 'Developer',
